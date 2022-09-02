@@ -1,0 +1,4 @@
+com\idbrasil\processoseletivo\number\api\NumberAPI.class
+com\idbrasil\processoseletivo\number\enums\Roman.class
+com\idbrasil\processoseletivo\ProcessoSeletivoApplication.class
+com\idbrasil\processoseletivo\number\service\NumberService.class
